@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"List of available commands :","bold":true,"underlined":true},{"text":"\n"},{"text":"/function redirection:help","color":"gold"},{"text":" -> Lists all available commands and their effects\n "}]
