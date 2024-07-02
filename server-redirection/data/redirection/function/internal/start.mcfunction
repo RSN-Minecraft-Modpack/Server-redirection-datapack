@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Datapack to server redirection has been loaded","color":"green"},{"text":"\n"},{"text":"Run \"/function redirection:help\" for help"}]
